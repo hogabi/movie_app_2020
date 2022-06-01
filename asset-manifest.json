@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hogabi/movie_app_2020/static/css/main.22e9e827.css",
+    "main.js": "/hogabi/movie_app_2020/static/js/main.530222d3.js",
+    "index.html": "/hogabi/movie_app_2020/index.html",
+    "main.22e9e827.css.map": "/hogabi/movie_app_2020/static/css/main.22e9e827.css.map",
+    "main.530222d3.js.map": "/hogabi/movie_app_2020/static/js/main.530222d3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22e9e827.css",
+    "static/js/main.530222d3.js"
+  ]
+}

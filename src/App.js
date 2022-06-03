@@ -17,6 +17,15 @@ import Detatil from "./routes/Detail";
 //https://yts.mx/api/v2/list_movies.json
 //https://yts-proxy.now.sh/list_movies.json
 
+// github로 올리는 명령어
+// git add .
+// git commit -m "변경 사유"
+// git push origin master
+
+// github 배포하기
+// npm run deploy
+
+
 function App() {
 
   return (
